@@ -121,7 +121,7 @@ Saves HTML, CSS, JS locally
 Keeps images & links pointing to the live website
 
 ---
-##📜 Example Run
+## 📜 Example Run
 
 AI Website Cloner Agent Initialized.
 Enter URL to clone (or type "exit"): https://example.com
@@ -135,7 +135,7 @@ Images and links remain functional as they point to the live site.
 
 ---
 
-##📝 Notes
+## 📝 Notes
 This project uses Google Gemini API with OpenAI-style client.
 
 Images & navigation links are hotlinked to live websites for functionality.
